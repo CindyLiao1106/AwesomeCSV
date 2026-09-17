@@ -111,3 +111,4 @@ Standards,CSVY,https://csvy.org/,"A standard for adding a YAML header to CSV fil
 META: Other similar lists,structured-text-tools,https://github.com/dbohdan/structured-text-tools,"List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc."
 META: Other similar lists,META-META,https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv,"**This list as CSV**."
 META: Other similar lists,META-META-META,https://nimbletext.com/Live/-971009575/,"A NimbleText pattern that produces this markdown page from this list as a CSV."
+Awesome CSV Tools,csv-peek,https://github.com/CindyLiao1106/csv-peek,"Profile CSV/TSV files from the terminal: column types, null rates, unique counts and duplicate rows. Zero dependencies (Python standard library only)."
